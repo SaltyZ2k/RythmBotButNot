@@ -1,0 +1,19 @@
+{
+  "name": "rythmbotbutnot",
+  "version": "1.0.0",
+  "description": "A Discord Bot that was made due to the shutdown of Rythm and Groovy",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SaltyZoro2k",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.4.0",
+    "trev": "^2.0.8",
+    "yt-search": "^2.10.1",
+    "ytdl-core": "^4.9.1"
+  }
+}
